@@ -37,7 +37,7 @@ Commands:
 ```
 
 ## Testing
-For testing reasons was choosen data set that is used for email spam classification and more info about it can be found [here](https://archive.ics.uci.edu/ml/datasets/spambase). With use of this data set, measured tree accuracy was ~88%.
+For testing reasons data set that is used for email spam classification was choosen and it can be found [here](https://archive.ics.uci.edu/ml/datasets/spambase). With use of this data set, measured tree accuracy was ~88%.
 
 ## Licence
 MIT
