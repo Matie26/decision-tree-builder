@@ -40,4 +40,4 @@ Commands:
 For testing reasons data set that is used for email spam classification was choosen and it can be found [here](https://archive.ics.uci.edu/ml/datasets/spambase). With use of this data set, measured tree accuracy was ~88%.
 
 ## Licence
-MIT
+MIT 
